@@ -1,0 +1,8 @@
+# Ignorar archivos y carpetas de Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# Ignorar archivos del sistema
+*.DS_Store
